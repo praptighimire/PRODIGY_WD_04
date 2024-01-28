@@ -590,3 +590,6 @@ footer span a{
 .card .box  a{
     color: white;
 }
+.card .box  a:hover{
+    color: orange;
+}
